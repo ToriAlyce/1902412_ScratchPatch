@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACI,wIACJ","file":"main.8118e6cf.chunk.css","sourcesContent":[".App {\r\n    background-image: linear-gradient(rgba(63, 102, 185, 0.5), rgb(118, 156, 240, 0.5), rgba(223, 106, 141, 0.5), rgb(209, 106, 223, 0.5), rgb(117, 28, 113, 0.5));\r\n}"]}

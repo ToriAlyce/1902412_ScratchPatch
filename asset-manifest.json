@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.css": "/1902412_ScratchPatch/static/css/main.8118e6cf.chunk.css",
-    "main.js": "/1902412_ScratchPatch/static/js/main.dcc6f639.chunk.js",
-    "main.js.map": "/1902412_ScratchPatch/static/js/main.dcc6f639.chunk.js.map",
+    "main.css": "/1902412_ScratchPatch/static/css/main.7367c459.chunk.css",
+    "main.js": "/1902412_ScratchPatch/static/js/main.b645d141.chunk.js",
+    "main.js.map": "/1902412_ScratchPatch/static/js/main.b645d141.chunk.js.map",
     "runtime-main.js": "/1902412_ScratchPatch/static/js/runtime-main.2c56542b.js",
     "runtime-main.js.map": "/1902412_ScratchPatch/static/js/runtime-main.2c56542b.js.map",
-    "static/js/2.e57a5192.chunk.js": "/1902412_ScratchPatch/static/js/2.e57a5192.chunk.js",
-    "static/js/2.e57a5192.chunk.js.map": "/1902412_ScratchPatch/static/js/2.e57a5192.chunk.js.map",
+    "static/js/2.47a373c2.chunk.js": "/1902412_ScratchPatch/static/js/2.47a373c2.chunk.js",
+    "static/js/2.47a373c2.chunk.js.map": "/1902412_ScratchPatch/static/js/2.47a373c2.chunk.js.map",
     "index.html": "/1902412_ScratchPatch/index.html",
-    "static/css/main.8118e6cf.chunk.css.map": "/1902412_ScratchPatch/static/css/main.8118e6cf.chunk.css.map",
-    "static/js/2.e57a5192.chunk.js.LICENSE.txt": "/1902412_ScratchPatch/static/js/2.e57a5192.chunk.js.LICENSE.txt"
+    "static/css/main.7367c459.chunk.css.map": "/1902412_ScratchPatch/static/css/main.7367c459.chunk.css.map",
+    "static/js/2.47a373c2.chunk.js.LICENSE.txt": "/1902412_ScratchPatch/static/js/2.47a373c2.chunk.js.LICENSE.txt",
+    "static/media/ABOUT_PAGE.ad258876.png": "/1902412_ScratchPatch/static/media/ABOUT_PAGE.ad258876.png",
+    "static/media/BLOGS_PAGE.c677b23c.png": "/1902412_ScratchPatch/static/media/BLOGS_PAGE.c677b23c.png",
+    "static/media/BigTicket_Netart.47becca8.png": "/1902412_ScratchPatch/static/media/BigTicket_Netart.47becca8.png",
+    "static/media/Title.css": "/1902412_ScratchPatch/static/media/Selectric Pica Regular.e230773e.ttf",
+    "static/media/HOMPAGE.e38159b2.png": "/1902412_ScratchPatch/static/media/HOMPAGE.e38159b2.png",
+    "static/media/Art.css": "/1902412_ScratchPatch/static/media/InternetArtwork.523a5206.png",
+    "static/media/index.css": "/1902412_ScratchPatch/static/media/wall.ae8047fc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2c56542b.js",
-    "static/js/2.e57a5192.chunk.js",
-    "static/css/main.8118e6cf.chunk.css",
-    "static/js/main.dcc6f639.chunk.js"
+    "static/js/2.47a373c2.chunk.js",
+    "static/css/main.7367c459.chunk.css",
+    "static/js/main.b645d141.chunk.js"
   ]
 }
