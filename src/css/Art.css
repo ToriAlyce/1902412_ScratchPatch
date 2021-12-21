@@ -1,0 +1,86 @@
+#b2 {
+    width: 70%;
+    height: 70%;
+    position: fixed;
+    left:50%;
+    top: 25%;
+    transform: translate(-50%,0%);
+    background: url(../Images/EmptyImage.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  
+  img {
+    position: fixed;
+    width: 100%;
+    margin-top: 10%;
+    margin-left: -50%;
+    height: 78%;
+  }
+
+  .Clear {
+    font-size: 25px; 
+    width: 6em;
+    height: 1.8em;
+    color: rgba(255, 255, 255, 0.788);
+    position: absolute;
+    margin-top: 0.8em;
+    cursor: pointer;
+  }
+
+  .Clear2 {
+    font-size: 25px; 
+    width: 6em;
+    height: 1.8em;
+    color: rgba(255, 255, 255, 0.788);
+    position: absolute;
+    margin-top: 0.8em;
+    left:80%;
+    top:5%;
+    cursor: pointer;
+    z-index: 0;
+  }
+
+  .poen{
+    position: relative;
+    height: 120%;
+    left:10%;
+    top: -50%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 0.08em solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    background: rgb(78, 78, 78) !important;
+    
+    transition: 0.3s;
+    font-family: typewrite;
+    font-size: 1.5rem;
+}
+
+span {
+    position: absolute;
+    width: 180px;
+    height: 150px;
+    background: url(../Images/InternetArtwork.png);
+    background-attachment: fixed;
+    background-size: 69%;
+    background-position-x: 161%;
+    background-position-y: 84%;
+    background-repeat: no-repeat;
+    pointer-events: none;
+    border-radius: 50%;
+  }
+
+  .ptag {
+    font-size: 26px;
+    position: absolute;
+    left:50%;
+    top:100%;
+    transform: translate(-50%,-50%);
+    width: 40%;
+  }
+

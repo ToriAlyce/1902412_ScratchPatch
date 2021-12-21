@@ -1,0 +1,39 @@
+.paragraph1 {
+    font-size: 26px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.head2 {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+    top:22%;
+}
+
+.head3 {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%,0);
+    top:22%;
+}
+
+.marg {
+    margin-top: 20%;
+}
+
+.white {
+    background-color: rgba(255, 255, 255, 0.623);
+    border-radius: 10px;
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headdiv {
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(150, 147, 147, 0.623);
+    border-radius: 10px;
+}

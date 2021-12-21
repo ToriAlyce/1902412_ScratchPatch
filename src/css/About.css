@@ -1,0 +1,26 @@
+.para22 {
+    font-size: 21px;
+    position: absolute;
+    left:43%;
+    top:40%;
+    transform: translate(-50%,-50%);
+    width: 50%;
+  }
+  
+  .para33 {
+    font-size: 21px;
+    position: absolute;
+    left:50%;
+    top:54%;
+    transform: translate(-50%,-50%);
+    width: 40%;
+  }
+  
+  .para44 {
+    font-size: 21px;
+    position: absolute;
+    left:60%;
+    top:71%;
+    transform: translate(-50%,-50%);
+    width: 40%;
+  }

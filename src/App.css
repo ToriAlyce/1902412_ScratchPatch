@@ -1,3 +1,16 @@
-.App {
-    background-image: linear-gradient(rgba(63, 102, 185, 0.5), rgb(118, 156, 240, 0.5), rgba(223, 106, 141, 0.5), rgb(209, 106, 223, 0.5), rgb(117, 28, 113, 0.5));
+.App{
+    align-items: center;
+    justify-content: center;
+}
+
+#Bar {
+    position: absolute;
+    left:50%;
+    top: 100px;
+    transform: translate(0%,-50%);
+}
+
+#backImg {
+    position: absolute;
+    top:180px;
 }

@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import ImageOne from "./Imageone";
+import ImageOne from "../Imageone";
 
 class Blog_1 extends Component {
     render(){

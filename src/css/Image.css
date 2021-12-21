@@ -1,0 +1,57 @@
+
+
+/*#bridge {
+                <img id="img" src={Ticket} alt="Ticket"/>
+                */
+
+#b1 {
+  width: 70%;
+  height: 70%;
+  position: fixed;
+  left:50%;
+  top: 25%;
+  transform: translate(-50%,0%);
+  background: url(../Images/EmptyImage.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+img {
+  position: fixed;
+  width: 100%;
+  margin-top: 10%;
+  margin-left: -50%;
+  height: 78%;
+}
+
+.para2 {
+  font-size: 26px;
+  position: absolute;
+  left:50%;
+  top:50%;
+  transform: translate(-50%,-50%);
+}
+
+.head5 {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,0);
+  top:35%;
+  font-size: 30px;
+}
+
+.para3 {
+  font-size: 26px;
+  position: absolute;
+  left:50%;
+  top:68%;
+  transform: translate(-50%,-50%);
+}
+
+.para4 {
+  font-size: 26px;
+  position: absolute;
+  left:50%;
+  top:78%;
+  transform: translate(-50%,-50%);
+}

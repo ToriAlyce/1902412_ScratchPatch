@@ -1,0 +1,16 @@
+@font-face {
+    src: url(../Fonts/Selectric\ Pica\ Regular.ttf);
+    font-family: Pica;
+}
+
+.menuDisplay{
+    background-color: rgb(78, 78, 78);
+    width: 70%;
+    margin-top: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    height: 45px;
+    transform:translate(0%,-55%);
+    z-index: 99;
+}

@@ -1,0 +1,56 @@
+@font-face {
+    src: url(./Fonts/DJB\ Holly\ Typed\ 2\ Much.ttf);
+    font-family: holly;
+}
+
+@font-face {
+    src: url(./Fonts/JMH\ Typewriter.ttf);
+    font-family: typewrite;
+}
+
+@font-face {
+    src: url(./Fonts/Selectric\ Pica\ Regular.ttf);
+    font-family: Pica;
+}
+
+.menuDisplay{
+    background-color: rgb(78, 78, 78);
+    width: 70%;
+    margin-top: -1.5%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    height: 45px;
+    transform:translate(0%,0%);
+    z-index: 999;
+    padding-top: 1%;
+}
+
+.sticky-header{
+    background-color: rgba(128, 128, 128, 0.5);
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.089);
+    position: fixed;
+    top: 0;
+    height: 110px;
+    width: 100%;
+    z-index: 0;
+
+}
+
+.sticky-header h1{
+    font-family: holly;
+    color: rgb(49, 40, 40);
+    font-size: 3.5rem;
+    line-height: 8 rem;
+    text-align: center;
+    margin: 0 auto;
+}
+
+a {
+    padding-right: 10%;
+    padding-left: 5%;
+    font-family: Pica;
+    font-size: 25px;
+    color:white !important;
+}
+
